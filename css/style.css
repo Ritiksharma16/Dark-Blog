@@ -31,7 +31,7 @@
     margin: 0 14px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    font-family:var(--font1);
+    font-family:var(--font5);
     color: red;
 }
 
